@@ -1,6 +1,6 @@
 # Iris_Flowers
 
-##This is a classification of iris flowers exercise using the dataset from https://archive.ics.uci.edu/ml/datasets/Iris. The project that covers the following:
+## This is a classification of iris flowers exercise using the dataset from https://archive.ics.uci.edu/ml/datasets/Iris. The project that covers the following:
 - Installing the Python and SciPy platform.
 - Loading the dataset.
 - Summarizing the dataset.
